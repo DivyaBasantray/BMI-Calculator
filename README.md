@@ -36,9 +36,3 @@ Based on the calculated BMI, the program classifies the result into:
 - 🐍 Python (Core Python concepts)
 
 ---
-
-## ▶️ How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/bmi-calculator.git
